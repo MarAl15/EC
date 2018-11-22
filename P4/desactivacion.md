@@ -43,7 +43,7 @@ Si comprobamos la contraseña `NinjaRtete;)` y la contraseña `506` veremos que 
 
 ---
 
-El código en ensamblador de dicho programa es el siguiente:
+Código en ensamblador
 
 ```console
 (gdb) disas main
